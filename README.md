@@ -24,4 +24,4 @@ Para visualizar o projeto, você pode clonar este repositório para a sua máqui
 
 Se você tiver alguma pergunta sobre este projeto, sinta-se à vontade para entrar em contato.
 
-- LinkedIn: [Cristian Leal Vieira](www.linkedin.com/in/cristianleal-dev)
+- LinkedIn: www.linkedin.com/in/cristianleal-dev
